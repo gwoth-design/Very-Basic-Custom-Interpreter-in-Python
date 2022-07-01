@@ -1,0 +1,6 @@
+func Main START
+say " Hello-World "
+say " I-am-Baby-Python "
+STOP
+
+call Main
